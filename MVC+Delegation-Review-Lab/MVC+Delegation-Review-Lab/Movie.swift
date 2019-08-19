@@ -1,3 +1,7 @@
+import Foundation
+import UIKit
+
+
 struct Movie {
     let name: String
     let year: Int
@@ -74,3 +78,4 @@ struct Movie {
     ]
 }
 
+var fontSize = CGFloat(17.0)
